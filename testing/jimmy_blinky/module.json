@@ -1,0 +1,9 @@
+{
+  "name": "jimmy-blinky",
+  "version": "0.0.0",
+  "bin": "./source",
+  "private": true,
+  "author": "jimmy",
+  "license": "Apache-2.0",
+  "dependencies": {}
+}

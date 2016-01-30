@@ -1,0 +1,10 @@
+{
+  "name": "main",
+  "version": "0.0.0",
+  "bin": "./source",
+  "private": true,
+  "description": "game",
+  "author": "Billiam and Jimmy",
+  "license": "Apache-2.0",
+  "dependencies": {}
+}
